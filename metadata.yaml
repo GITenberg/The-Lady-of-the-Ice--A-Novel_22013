@@ -1,0 +1,31 @@
+_repo: The-Lady-of-the-Ice--A-Novel_22013
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: De Mille, James
+    aliases:
+    - DeMille, James
+    - Mille, James de
+    birthdate: 1833
+    deathdate: 1880
+    gutenberg_agent_id: '1482'
+    url: http://www.gutenberg.org/2009/agents/1482
+    wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
+description: ''
+gutenberg_issued: '2007-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22013'
+  lccn: 09008347
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PS'
+title: 'The Lady of the Ice: A Novel'
+url: http://www.gutenberg.org/ebooks/22013
